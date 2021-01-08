@@ -1,6 +1,6 @@
 {
-    "name": "test_web",
-    "short_name": "test_web",
+    "name": "four_x_four",
+    "short_name": "four_x_four",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
